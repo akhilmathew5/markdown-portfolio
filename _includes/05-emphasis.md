@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*Speed and Power*
+**My genius is almost frightening** :brain: :exploding_head:
