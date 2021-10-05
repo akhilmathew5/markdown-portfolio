@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+1. KFC
+2. KFC
+3. KFC
